@@ -2,11 +2,13 @@
 
 ## Deployment
 
-Visit [heroku](https://www.todo.com) to demo the App
+Visit [Netlify](https://polite-pavlova-c57dc6.netlify.app/) to demo the App
 
 ## Local Installation
 
-To install fork the [git repo](https://www.todo.com) and navigate to the  `luthor-challenge` directory.
+To install fork the [git repo](https://github.com/jonschacter/luthor-challenge).
+
+From the `luthor-challenge` directory:
 
 Run
 
